@@ -1,5 +1,4 @@
-# Cowork standard typos config — domain term allowlist
-# Propagated to <repo>/typos.toml by propagate.py
+# Spelling configuration — domain term allowlist
 #
 # Add entries here to prevent the typos hook from auto-renaming words that
 # are real domain terms (not typos).
